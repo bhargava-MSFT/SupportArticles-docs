@@ -10,7 +10,7 @@ ms.custom: sap:Create, Upgrade, Scale and Delete operations (cluster or nodepool
 ---
 # Troubleshoot the VirtualNetworkNotInSucceededState error code
 
-## Symptoms
+## Symptoms 
 
 When you create, upgrade, or scale an Azure Kubernetes Service (AKS) cluster or node pool, the deployment fails and returns an error message that resembles the following message:
 
